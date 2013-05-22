@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Raven-Java client - Checkstyle report</title>
+    <link>https://github.com/kencochrane/raven-java/raven</link>
+    <description>Raven-Java client - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2012 - 2013</copyright>
+    <item>
+      <title>File: 30,
+             Errors: 7,
+             Warnings: 5,
+             Infos: 33
+      </title>
+            <link>https://github.com/kencochrane/raven-java/raven/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.connection.AsyncConnection.java">net/kencochrane/raven/connection/AsyncConnection.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.EventBuilder.java">net/kencochrane/raven/event/EventBuilder.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.interfaces.ImmutableThrowable.java">net/kencochrane/raven/event/interfaces/ImmutableThrowable.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.marshaller.Marshaller.java">net/kencochrane/raven/marshaller/Marshaller.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.connection.AbstractConnection.java">net/kencochrane/raven/connection/AbstractConnection.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.jul.SentryHandler.java">net/kencochrane/raven/jul/SentryHandler.java</a>
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.marshaller.json.InterfaceBinding.java">net/kencochrane/raven/marshaller/json/InterfaceBinding.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.connection.Connection.java">net/kencochrane/raven/connection/Connection.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.helper.EventBuilderHelper.java">net/kencochrane/raven/event/helper/EventBuilderHelper.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.marshaller.json.MessageInterfaceBinding.java">net/kencochrane/raven/marshaller/json/MessageInterfaceBinding.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.marshaller.json.ExceptionInterfaceBinding.java">net/kencochrane/raven/marshaller/json/ExceptionInterfaceBinding.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.marshaller.json.StackTraceInterfaceBinding.java">net/kencochrane/raven/marshaller/json/StackTraceInterfaceBinding.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.Event.java">net/kencochrane/raven/event/Event.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.interfaces.ExceptionInterface.java">net/kencochrane/raven/event/interfaces/ExceptionInterface.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.exception.ConnectionException.java">net/kencochrane/raven/exception/ConnectionException.java</a>
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.servlet.RavenServletRequestListener.java">net/kencochrane/raven/servlet/RavenServletRequestListener.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.connection.HttpConnection.java">net/kencochrane/raven/connection/HttpConnection.java</a>
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.Dsn.java">net/kencochrane/raven/Dsn.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.interfaces.HttpInterface.java">net/kencochrane/raven/event/interfaces/HttpInterface.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.interfaces.SentryInterface.java">net/kencochrane/raven/event/interfaces/SentryInterface.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.interfaces.StackTraceInterface.java">net/kencochrane/raven/event/interfaces/StackTraceInterface.java</a>
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.exception.InvalidDsnException.java">net/kencochrane/raven/exception/InvalidDsnException.java</a>
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.marshaller.json.JsonMarshaller.java">net/kencochrane/raven/marshaller/json/JsonMarshaller.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.interfaces.MessageInterface.java">net/kencochrane/raven/event/interfaces/MessageInterface.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.DefaultRavenFactory.java">net/kencochrane/raven/DefaultRavenFactory.java</a>
+                </td>
+                <td>
+                  5
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.marshaller.json.HttpInterfaceBinding.java">net/kencochrane/raven/marshaller/json/HttpInterfaceBinding.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.event.helper.HttpEventBuilderHelper.java">net/kencochrane/raven/event/helper/HttpEventBuilderHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.RavenFactory.java">net/kencochrane/raven/RavenFactory.java</a>
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.Raven.java">net/kencochrane/raven/Raven.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven/checkstyle.html#net.kencochrane.raven.connection.UdpConnection.java">net/kencochrane/raven/connection/UdpConnection.java</a>
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
