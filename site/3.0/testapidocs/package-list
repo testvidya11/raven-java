@@ -1,0 +1,9 @@
+net.kencochrane.raven
+net.kencochrane.raven.connection
+net.kencochrane.raven.event
+net.kencochrane.raven.event.helper
+net.kencochrane.raven.jul
+net.kencochrane.raven.log4j
+net.kencochrane.raven.log4j2
+net.kencochrane.raven.logback
+net.kencochrane.raven.marshaller.json
