@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Raven-Java for log4j2 - Checkstyle report</title>
+    <link>https://github.com/kencochrane/raven-java/raven-log4j2</link>
+    <description>Raven-Java for log4j2 - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2012 - 2013</copyright>
+    <item>
+      <title>File: 1,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 3
+      </title>
+            <link>https://github.com/kencochrane/raven-java/raven-log4j2/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://github.com/kencochrane/raven-java/raven-log4j2/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://github.com/kencochrane/raven-java/raven-log4j2/checkstyle.html#net.kencochrane.raven.log4j2.SentryAppender.java">net/kencochrane/raven/log4j2/SentryAppender.java</a>
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
